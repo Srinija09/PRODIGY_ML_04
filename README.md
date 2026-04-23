@@ -1,2 +1,16 @@
-# PRODIGY_ML_04
-4th  project as intern at prodigy infotech
+# Hand Gesture Recognition Project
+
+## Overview
+This project detects and classifies hand gestures using image/video input.
+
+## Features
+- Real-time gesture detection
+- Uses MediaPipe + OpenCV
+- Trainable deep learning model
+
+## Setup
+```bash
+pip install -r requirements.txt
+python train.py
+python app.py
+```
